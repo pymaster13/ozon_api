@@ -1,0 +1,8 @@
+/staticfiles
+**/migrations
+**/__pycache__
+*driver*
+*.xpi
+*.log
+venv*
+*cache*
